@@ -59,7 +59,7 @@ add-apt-repository ppa:openjdk-r/ppa
    ```bash
    systemctl status jenkins
    ```
-
+ use public address of ec2 instance with:8080
 2. Retrieve the initial admin password:
 
    ```bash
